@@ -1,0 +1,15 @@
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net6.0\PrimeiraAplicacao.exe
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net6.0\PrimeiraAplicacao.deps.json
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net6.0\PrimeiraAplicacao.runtimeconfig.json
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net6.0\PrimeiraAplicacao.dll
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net6.0\PrimeiraAplicacao.pdb
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.csproj.AssemblyReference.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.AssemblyInfoInputs.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.AssemblyInfo.cs
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.dll
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\refint\PrimeiraAplicacao.dll
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.pdb
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\PrimeiraAplicacao.genruntimeconfig.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net6.0\ref\PrimeiraAplicacao.dll
